@@ -16,10 +16,11 @@ Currently, I am expanding my expertise in both front-end and back-end developmen
 - Exploring mobile development and cross-platform tools.
 - Enhancing my back-end skills with databases and server-side technologies.
 
+<!--
 ### 📂 **Highlighted Projects:**
 1. **Project Name 1:** A brief description of this project and the technologies used.
 2. **Project Name 2:** A brief description of this project and the technologies used.
-
+-->
 ---
 
 Feel free to connect or check out my other projects!
