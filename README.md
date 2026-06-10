@@ -1,5 +1,5 @@
 # Hi there! 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Abdulmalek+Al-Ansi;Full+Stack+Developer;AI+Developer;Mobile+App+Developer)]
 ### IT Student & Software Developer | Web, Mobile & Desktop Applications Enthusiast
 
 I am a dedicated IT student and working professional, proficient in a wide range of programming languages and technologies, including Java, C++, C#, HTML, CSS, JavaScript, JSON, React, and SQL Server. Passionate about building robust web, mobile, and desktop applications, I enjoy exploring full-stack development and creating solutions that enhance user experiences across platforms. 
